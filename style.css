@@ -1,0 +1,57 @@
+body {
+ background-image: url("88.jpg");
+	font-family: Arial, sans-serif;
+}
+ 
+.tabela :hover {
+	background-color: #2196f3;
+	padding:10px;
+	border-bottom:3px solid yellow
+}
+
+.ikona {
+	padding-left:100px;
+	width:50px;
+	height:50px;
+}
+
+
+.when a{
+	color:white;
+	text-decoration:none;
+}
+
+.slika {
+	height:200px;
+}
+
+
+#about{
+	color:black;
+}
+
+#about li{
+	color:white;
+	font-size:20px;
+}
+
+#predmeti{
+	background:gray;
+	color:black;
+	width:400px;
+}
+
+.social {
+	width:50px;
+	height:50px;
+}
+
+.naslov{
+	color: darkturquoise;
+	text-transform: capitalize;
+	font-style: italic;
+}
+
+tr{
+	height: 50px;
+}
